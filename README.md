@@ -17,4 +17,3 @@ Here are some of the technologies and tools I work with:
 - 📱 **Flutter**
 - ⚛️ **React**
 - ☁️ **DigitalOcean**
-

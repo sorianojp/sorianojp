@@ -1,6 +1,6 @@
 ## 👋 Intro
 
-Hi, I’m **John Paul Soriano**, MIT graduate 🎓 — a part-time **College Professor** and a full-time **Web App Developer**.
+Hi, I’m **John Paul Soriano**, MIT graduate 🎓 — a part-time **College Professor** and a full-time **Software Developer**.
 
 I'm passionate about building scalable web applications, mentoring students, and exploring new tech trends.
 

@@ -13,7 +13,7 @@ I'm passionate about building scalable web applications, mentoring students, and
 
 Here are some of the technologies and tools I work with:
 
-- 💻 **Laravel**, **HTML**, **CSS**, **Alpine.js**, **Bootstrap**, **Tailwind CSS**
+- 💻 **Laravel**, **MySQL**, **HTML**, **CSS**, **Alpine.js**, **Bootstrap**, **Tailwind CSS**
 - 📱 **Flutter**
 - ⚛️ **React**
-- ☁️ **DigitalOcean**
+- ☁️ **DigitalOcean**, **LEMP**
